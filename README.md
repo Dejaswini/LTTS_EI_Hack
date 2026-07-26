@@ -112,52 +112,7 @@ List all saved result filenames.
 { "files": ["shaft_part_output.json", "vise_assembly_output.json"] }
 ```
 
----
 
-## Sample JSON Outputs
-
-### Part Drawing
-
-```json
-{
-  "drawing_type": "part",
-  "extracted_data": {
-    "drawing_title":  { "value": "Motor Shaft", "bbox": [100, 200, 300, 230], "confidence": 0.98 },
-    "drawing_number": { "value": "DWG-001",     "bbox": [100, 240, 250, 260], "confidence": 0.97 },
-    "revision":       { "value": "A",           "bbox": [310, 240, 340, 260], "confidence": 0.99 },
-    "scale":          { "value": "1:1",         "bbox": [100, 270, 180, 290], "confidence": 0.96 },
-    "drawn_by":       { "value": "J. Smith",    "bbox": [100, 300, 220, 320], "confidence": 0.95 },
-    "dimensions": [
-      { "value": "Ø28", "bbox": [50, 150, 90, 170],   "confidence": 0.94 },
-      { "value": "40",  "bbox": [200, 180, 230, 200], "confidence": 0.93 }
-    ],
-    "tolerances": [
-      { "value": "±0.05", "bbox": [300, 200, 360, 220], "confidence": 0.91 }
-    ]
-  }
-}
-```
-
-### Assembly Drawing
-
-```json
-{
-  "drawing_type": "assembly",
-  "extracted_data": {
-    "title":    { "value": "Vise Assembly", "bbox": [550, 400, 900, 420], "confidence": 0.97 },
-    "revision": { "value": "A",            "bbox": [920, 400, 950, 420], "confidence": 0.98 },
-    "bill_of_materials": [
-      {
-        "item":        { "value": "1",                 "bbox": [550, 50, 590, 70],  "confidence": 0.99 },
-        "part_number": { "value": "061_vise_body_2008","bbox": [600, 50, 790, 70],  "confidence": 0.97 },
-        "quantity":    { "value": "1",                 "bbox": [800, 50, 830, 70],  "confidence": 0.98 }
-      }
-    ]
-  }
-}
-```
-
----
 
 ## Environment Requirements
 
@@ -208,10 +163,4 @@ Upload (PDF / Image)
 
 ---
 
-## What's NOT in this milestone
 
-- ❌ Chatbot / AI assistant
-- ❌ RAG / vector database / FAISS
-- ❌ Authentication / login
-- ❌ Dimension validation
-- ❌ Drawing annotation / overlay
