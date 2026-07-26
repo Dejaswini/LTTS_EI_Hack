@@ -1,14 +1,45 @@
 # CAD Drawing Intelligence Assistant
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.38-red)
 
-> **Hackathon Milestone 1** — Upload · Classify · Extract · JSON
+> AI-powered CAD Drawing Intelligence Assistant that automatically classifies engineering drawings (Part/Assembly), extracts structured information using PaddleOCR, and generates standardized JSON output through a FastAPI backend and Streamlit frontend.
+
+### Workflow
+
+Upload Drawing → OCR → Classify (Part/Assembly) → Extract Information → Generate Structured JSON
 
 Automatically classifies uploaded engineering drawings as **Part** or **Assembly**, runs OCR via PaddleOCR, and outputs fully-structured JSON.
 
 ---
 
-## Quick Start
+## Features
 
-```bash
+- Upload engineering drawings (PDF/Image)
+- Automatic Part vs Assembly classification
+- OCR using PaddleOCR
+- Extract title block information
+- Extract dimensions and tolerances
+- Extract Bill of Materials (BOM)
+- Generate structured JSON
+- REST API using FastAPI
+- Interactive Streamlit interface
+
+## Environment Variables
+
+Create a `.env` file inside the `backend` directory.
+
+```env
+OPENAI_API_KEY=your_api_key_here
+```
+
+> The `.env` file is excluded from version control using `.gitignore`.
+
+---
+
+
+## Quick Start
+``` bash
 # 1. Create virtual environment
 python -m venv cad
 cad\Scripts\activate          # Windows
@@ -48,17 +79,21 @@ cadproj/
 │   ├── app.py                   # FastAPI entry point
 │   ├── routes/
 │   │   └── upload.py            # POST /upload · GET /result/{fn}
+│   ├── .env.example              # Example environment variables (optional)
 │   ├── services/
 │   │   ├── ocr_service.py       # PDF→image (PyMuPDF) + PaddleOCR
 │   │   ├── classifier.py        # Keyword-based Part / Assembly classifier
 │   │   ├── part_parser.py       # Title block + dimensions + tolerances
 │   │   ├── assembly_parser.py   # BOM table extraction
-│   │   └── json_generator.py    # Structured JSON builder + file persistence
-│   ├── uploads/                 # Temporary uploaded files
-│   └── output/                  # Generated JSON results
+│   │   └── json_generator.py    # Structured JSON builder + file persistence      
+│   ├── uploads/
+│   │   └── .gitignore            # Temporary uploaded files
+│   ├── outputs/
+│   │   └── .gitignore            # processed document
+│   └── output/                   # Generated JSON results
 ├── frontend/
 │   └── streamlit_app.py         # Dark-theme Streamlit UI
-├── requirements.txt
+├── requirements.txt 
 └── README.md
 ```
 
@@ -136,6 +171,8 @@ List all saved result filenames.
 > ⚠️ Do **not** use Python 3.13 — PaddlePaddle requires Python 3.11.
 
 ---
+
+The application processes uploaded engineering drawings through an OCR pipeline, classifies the drawing type, extracts relevant engineering information, and returns the results as structured JSON via a FastAPI backend consumed by a Streamlit frontend.
 
 ## Architecture
 
