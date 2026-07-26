@@ -1,0 +1,73 @@
+{
+  "engineering_json": {
+    "title_block": {
+      "drawing_title": "",
+      "drawing_number": "",
+      "revision": "",
+      "sheet": "1/",
+      "scale": "1:1",
+      "units": "",
+      "drawn_by": "",
+      "checked_by": "",
+      "approved_by": "",
+      "date": "",
+      "company": "CAD DESIGNS"
+    },
+    "material": "",
+    "dimensions": [
+      "14",
+      "18",
+      "25",
+      "20",
+      "04∅",
+      "85",
+      "10",
+      "∅28",
+      "R1",
+      "40",
+      "14",
+      "5",
+      "4 gauri∅8",
+      "46",
+      "R10",
+      "45",
+      "60",
+      "80",
+      "R14 sferic"
+    ],
+    "tolerances": [],
+    "gdt_symbols": [],
+    "surface_finish": [],
+    "threads": [],
+    "notes": [
+      "All practice drawings and video tutorials are available at WWW.CADDESIGNS.IN"
+    ],
+    "general_notes": [],
+    "tables": [],
+    "other_annotations": [
+      "Section view A-A",
+      "Isometric view",
+      "Auxiliary view B",
+      "Front view",
+      "A",
+      "A",
+      "Scale: 1:1",
+      "Scale: 1:1"
+    ]
+  },
+  "summary": "The drawing title is **Not present** and the drawing number is **Not present**. Material is **Not present**. Revision is **Not present**. The scale is **1:1**.\n\nA total of **19 dimensions** are detected. The number of tolerances detected is **0**. The drawing contains **1 note**, **0 surface finish indications**, and **0 thread callouts**.\n\nOther key observations: sheet is marked **1/**, company is **CAD DESIGNS**, and view-related annotations include **Front view**, **Section view A-A**, **Auxiliary view B**, and **Isometric view**.",
+  "statistics": {
+    "dimensions": 19,
+    "tolerances": 0,
+    "gdt_symbols": 0,
+    "surface_finishes": 0,
+    "threads": 0,
+    "notes": 1,
+    "general_notes": 0,
+    "tables": 0,
+    "other_annotations": 8,
+    "has_title": false,
+    "has_material": false,
+    "has_revision": false
+  }
+}

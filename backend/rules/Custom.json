@@ -1,0 +1,15 @@
+{
+  "company": "Custom Company",
+  "required_fields": {
+    "part":     ["drawing_number","drawing_title","revision","date","drawn_by","material"],
+    "assembly": ["drawing_number","drawing_title","revision","date","drawn_by","bill_of_materials"]
+  },
+  "format_rules": {},
+  "custom_rules": {
+    "surface_finish_mandatory": false,
+    "tolerance_table_required": false,
+    "heat_treatment_required":  false,
+    "bom_item_numbers_unique":  true,
+    "bom_quantity_positive":    true
+  }
+}

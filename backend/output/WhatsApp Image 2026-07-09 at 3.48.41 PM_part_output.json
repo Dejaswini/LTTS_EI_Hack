@@ -1,0 +1,836 @@
+{
+  "meta": {
+    "source_file": "WhatsApp Image 2026-07-09 at 3.48.41 PM.jpeg",
+    "drawing_type": "part",
+    "processed_at": "2026-07-09T22:31:32.208504Z",
+    "total_ocr_hits": 49
+  },
+  "drawing_type": "part",
+  "extracted_data": {
+    "drawing_title": {
+      "value": "All practice drawings and video tutorials are available at WWW.CADDESIGNS.IN",
+      "bbox": [
+        692,
+        656,
+        1236,
+        679
+      ],
+      "confidence": 0.9966
+    },
+    "drawing_number": {
+      "value": "0.00",
+      "bbox": [
+        1056,
+        852,
+        1096,
+        871
+      ],
+      "confidence": 1.0
+    },
+    "revision": {
+      "value": "1/",
+      "bbox": [
+        1226,
+        852,
+        1247,
+        871
+      ],
+      "confidence": 0.9975
+    },
+    "scale": {
+      "value": "Section view A-A",
+      "bbox": [
+        42,
+        31,
+        201,
+        54
+      ],
+      "confidence": 1.0
+    },
+    "date": {
+      "value": "SIZE",
+      "bbox": [
+        858,
+        800,
+        897,
+        818
+      ],
+      "confidence": 1.0
+    },
+    "drawn_by": {
+      "value": "SIZE",
+      "bbox": [
+        858,
+        800,
+        897,
+        818
+      ],
+      "confidence": 1.0
+    },
+    "checked_by": {
+      "value": "SIZE",
+      "bbox": [
+        858,
+        800,
+        897,
+        818
+      ],
+      "confidence": 1.0
+    },
+    "designed_by": {
+      "value": "A3",
+      "bbox": [
+        867,
+        824,
+        896,
+        845
+      ],
+      "confidence": 1.0
+    },
+    "weight": {
+      "value": "0.00",
+      "bbox": [
+        1056,
+        852,
+        1096,
+        871
+      ],
+      "confidence": 1.0
+    },
+    "sheet": {
+      "value": "1/",
+      "bbox": [
+        1226,
+        852,
+        1247,
+        871
+      ],
+      "confidence": 0.9975
+    },
+    "dimensions": [
+      {
+        "value": "14",
+        "bbox": [
+          259,
+          28,
+          302,
+          50
+        ],
+        "confidence": 1.0
+      },
+      {
+        "value": "1",
+        "bbox": [
+          40,
+          50,
+          152,
+          72
+        ],
+        "confidence": 0.9987
+      },
+      {
+        "value": "R14",
+        "bbox": [
+          111,
+          89,
+          217,
+          177
+        ],
+        "confidence": 0.9961
+      },
+      {
+        "value": "18",
+        "bbox": [
+          321,
+          104,
+          341,
+          134
+        ],
+        "confidence": 0.9684
+      },
+      {
+        "value": "25",
+        "bbox": [
+          343,
+          115,
+          363,
+          145
+        ],
+        "confidence": 1.0
+      },
+      {
+        "value": "20",
+        "bbox": [
+          693,
+          107,
+          714,
+          137
+        ],
+        "confidence": 0.9848
+      },
+      {
+        "value": "11",
+        "bbox": [
+          953,
+          110,
+          1066,
+          133
+        ],
+        "confidence": 0.8947
+      },
+      {
+        "value": "04",
+        "bbox": [
+          615,
+          210,
+          659,
+          233
+        ],
+        "confidence": 0.7784
+      },
+      {
+        "value": "85",
+        "bbox": [
+          748,
+          201,
+          774,
+          248
+        ],
+        "confidence": 1.0
+      },
+      {
+        "value": "10",
+        "bbox": [
+          158,
+          280,
+          201,
+          302
+        ],
+        "confidence": 0.9166
+      },
+      {
+        "value": "28",
+        "bbox": [
+          268,
+          286,
+          296,
+          306
+        ],
+        "confidence": 0.9997
+      },
+      {
+        "value": "R1",
+        "bbox": [
+          331,
+          269,
+          370,
+          307
+        ],
+        "confidence": 0.9996
+      },
+      {
+        "value": "40",
+        "bbox": [
+          438,
+          282,
+          458,
+          310
+        ],
+        "confidence": 0.9801
+      },
+      {
+        "value": "5",
+        "bbox": [
+          286,
+          345,
+          304,
+          358
+        ],
+        "confidence": 1.0
+      },
+      {
+        "value": "4",
+        "bbox": [
+          62,
+          360,
+          171,
+          388
+        ],
+        "confidence": 0.901
+      },
+      {
+        "value": "8",
+        "bbox": [
+          62,
+          360,
+          171,
+          388
+        ],
+        "confidence": 0.901
+      },
+      {
+        "value": "46",
+        "bbox": [
+          262,
+          360,
+          290,
+          381
+        ],
+        "confidence": 0.9995
+      },
+      {
+        "value": "R10",
+        "bbox": [
+          100,
+          478,
+          154,
+          526
+        ],
+        "confidence": 0.9999
+      },
+      {
+        "value": "45",
+        "bbox": [
+          468,
+          579,
+          489,
+          609
+        ],
+        "confidence": 0.9999
+      },
+      {
+        "value": "60",
+        "bbox": [
+          262,
+          677,
+          291,
+          697
+        ],
+        "confidence": 0.9972
+      },
+      {
+        "value": "80",
+        "bbox": [
+          262,
+          710,
+          291,
+          731
+        ],
+        "confidence": 1.0
+      },
+      {
+        "value": "3",
+        "bbox": [
+          867,
+          824,
+          896,
+          845
+        ],
+        "confidence": 1.0
+      },
+      {
+        "value": "0.00",
+        "bbox": [
+          1056,
+          852,
+          1096,
+          871
+        ],
+        "confidence": 1.0
+      }
+    ],
+    "tolerances": []
+  },
+  "raw_ocr": [
+    {
+      "text": "Section view A-A",
+      "confidence": 1.0,
+      "bbox": [
+        42,
+        31,
+        201,
+        54
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 1.0,
+      "bbox": [
+        259,
+        28,
+        302,
+        50
+      ]
+    },
+    {
+      "text": "Scale: 1:1",
+      "confidence": 0.9987,
+      "bbox": [
+        40,
+        50,
+        152,
+        72
+      ]
+    },
+    {
+      "text": "R14 sferic",
+      "confidence": 0.9961,
+      "bbox": [
+        111,
+        89,
+        217,
+        177
+      ]
+    },
+    {
+      "text": "Isometric view",
+      "confidence": 1.0,
+      "bbox": [
+        955,
+        92,
+        1097,
+        112
+      ]
+    },
+    {
+      "text": "18",
+      "confidence": 0.9684,
+      "bbox": [
+        321,
+        104,
+        341,
+        134
+      ]
+    },
+    {
+      "text": "25",
+      "confidence": 1.0,
+      "bbox": [
+        343,
+        115,
+        363,
+        145
+      ]
+    },
+    {
+      "text": "20",
+      "confidence": 0.9848,
+      "bbox": [
+        693,
+        107,
+        714,
+        137
+      ]
+    },
+    {
+      "text": "ca11",
+      "confidence": 0.8947,
+      "bbox": [
+        953,
+        110,
+        1066,
+        133
+      ]
+    },
+    {
+      "text": "04∅",
+      "confidence": 0.7784,
+      "bbox": [
+        615,
+        210,
+        659,
+        233
+      ]
+    },
+    {
+      "text": "85",
+      "confidence": 1.0,
+      "bbox": [
+        748,
+        201,
+        774,
+        248
+      ]
+    },
+    {
+      "text": "10",
+      "confidence": 0.9166,
+      "bbox": [
+        158,
+        280,
+        201,
+        302
+      ]
+    },
+    {
+      "text": "∅",
+      "confidence": 0.6864,
+      "bbox": [
+        253,
+        287,
+        272,
+        306
+      ]
+    },
+    {
+      "text": "28",
+      "confidence": 0.9997,
+      "bbox": [
+        268,
+        286,
+        296,
+        306
+      ]
+    },
+    {
+      "text": "R1",
+      "confidence": 0.9996,
+      "bbox": [
+        331,
+        269,
+        370,
+        307
+      ]
+    },
+    {
+      "text": "40",
+      "confidence": 0.9801,
+      "bbox": [
+        438,
+        282,
+        458,
+        310
+      ]
+    },
+    {
+      "text": "14",
+      "confidence": 0.914,
+      "bbox": [
+        404,
+        320,
+        424,
+        351
+      ]
+    },
+    {
+      "text": "5",
+      "confidence": 1.0,
+      "bbox": [
+        286,
+        345,
+        304,
+        358
+      ]
+    },
+    {
+      "text": "4 gauri∅8",
+      "confidence": 0.901,
+      "bbox": [
+        62,
+        360,
+        171,
+        388
+      ]
+    },
+    {
+      "text": "46",
+      "confidence": 0.9995,
+      "bbox": [
+        262,
+        360,
+        290,
+        381
+      ]
+    },
+    {
+      "text": "Auxiliary view B",
+      "confidence": 0.9694,
+      "bbox": [
+        637,
+        382,
+        793,
+        402
+      ]
+    },
+    {
+      "text": "Scale: 1:1",
+      "confidence": 0.9987,
+      "bbox": [
+        637,
+        402,
+        744,
+        421
+      ]
+    },
+    {
+      "text": "R10",
+      "confidence": 0.9999,
+      "bbox": [
+        100,
+        478,
+        154,
+        526
+      ]
+    },
+    {
+      "text": "45",
+      "confidence": 0.9999,
+      "bbox": [
+        468,
+        579,
+        489,
+        609
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 1.0,
+      "bbox": [
+        459,
+        622,
+        477,
+        640
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 1.0,
+      "bbox": [
+        84,
+        662,
+        101,
+        681
+      ]
+    },
+    {
+      "text": "All practice drawings and video tutorials are available at WWW.CADDESIGNS.IN",
+      "confidence": 0.9966,
+      "bbox": [
+        692,
+        656,
+        1236,
+        679
+      ]
+    },
+    {
+      "text": "60",
+      "confidence": 0.9972,
+      "bbox": [
+        262,
+        677,
+        291,
+        697
+      ]
+    },
+    {
+      "text": "80",
+      "confidence": 1.0,
+      "bbox": [
+        262,
+        710,
+        291,
+        731
+      ]
+    },
+    {
+      "text": "CAD DESIGNS",
+      "confidence": 1.0,
+      "bbox": [
+        986,
+        705,
+        1160,
+        732
+      ]
+    },
+    {
+      "text": "DRAWING TITLE",
+      "confidence": 1.0,
+      "bbox": [
+        860,
+        752,
+        969,
+        766
+      ]
+    },
+    {
+      "text": "DRAWN BY",
+      "confidence": 0.9996,
+      "bbox": [
+        654,
+        763,
+        726,
+        780
+      ]
+    },
+    {
+      "text": "DATE",
+      "confidence": 1.0,
+      "bbox": [
+        795,
+        763,
+        834,
+        781
+      ]
+    },
+    {
+      "text": "Front view",
+      "confidence": 1.0,
+      "bbox": [
+        200,
+        785,
+        304,
+        804
+      ]
+    },
+    {
+      "text": "Scale: 1:1",
+      "confidence": 0.9991,
+      "bbox": [
+        199,
+        802,
+        311,
+        825
+      ]
+    },
+    {
+      "text": "CHECKED BY",
+      "confidence": 0.9997,
+      "bbox": [
+        655,
+        800,
+        741,
+        817
+      ]
+    },
+    {
+      "text": "DATE",
+      "confidence": 1.0,
+      "bbox": [
+        795,
+        800,
+        834,
+        818
+      ]
+    },
+    {
+      "text": "SIZE",
+      "confidence": 1.0,
+      "bbox": [
+        858,
+        800,
+        897,
+        818
+      ]
+    },
+    {
+      "text": "DRAWING NUMBER",
+      "confidence": 0.9999,
+      "bbox": [
+        904,
+        801,
+        1026,
+        818
+      ]
+    },
+    {
+      "text": "REV",
+      "confidence": 1.0,
+      "bbox": [
+        1209,
+        800,
+        1242,
+        819
+      ]
+    },
+    {
+      "text": "A3",
+      "confidence": 1.0,
+      "bbox": [
+        867,
+        824,
+        896,
+        845
+      ]
+    },
+    {
+      "text": "DESIGNED BY",
+      "confidence": 0.9999,
+      "bbox": [
+        654,
+        839,
+        748,
+        855
+      ]
+    },
+    {
+      "text": "DATE",
+      "confidence": 1.0,
+      "bbox": [
+        795,
+        838,
+        835,
+        855
+      ]
+    },
+    {
+      "text": "SCALE",
+      "confidence": 1.0,
+      "bbox": [
+        859,
+        852,
+        905,
+        869
+      ]
+    },
+    {
+      "text": "1:1",
+      "confidence": 0.9995,
+      "bbox": [
+        920,
+        852,
+        951,
+        870
+      ]
+    },
+    {
+      "text": "WEIGHT(kg)",
+      "confidence": 0.9996,
+      "bbox": [
+        950,
+        849,
+        1040,
+        872
+      ]
+    },
+    {
+      "text": "0.00",
+      "confidence": 1.0,
+      "bbox": [
+        1056,
+        852,
+        1096,
+        871
+      ]
+    },
+    {
+      "text": "SHEET",
+      "confidence": 1.0,
+      "bbox": [
+        1161,
+        852,
+        1208,
+        871
+      ]
+    },
+    {
+      "text": "1/",
+      "confidence": 0.9975,
+      "bbox": [
+        1226,
+        852,
+        1247,
+        871
+      ]
+    }
+  ]
+}

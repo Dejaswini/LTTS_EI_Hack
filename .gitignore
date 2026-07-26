@@ -1,0 +1,20 @@
+# Environment files
+.env
+.env.*
+
+# Ignore backend env
+backend/.env
+backend/.env.*
+
+# Virtual environments
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/

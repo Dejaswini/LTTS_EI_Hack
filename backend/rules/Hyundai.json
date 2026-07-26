@@ -1,0 +1,19 @@
+{
+  "company": "Hyundai",
+  "required_fields": {
+    "part":     ["drawing_number","drawing_title","revision","scale","date","drawn_by","checked_by","material","surface_finish","tolerances","dimensions","projection_method"],
+    "assembly": ["drawing_number","drawing_title","revision","date","drawn_by","checked_by","bill_of_materials"]
+  },
+  "format_rules": {
+    "revision": "^[A-Z0-9]{1,3}$",
+    "drawing_number": "^[A-Z0-9\\-_]{3,20}$",
+    "scale": "^[0-9]+:[0-9]+$"
+  },
+  "custom_rules": {
+    "surface_finish_mandatory": true,
+    "tolerance_table_required": false,
+    "heat_treatment_required":  true,
+    "bom_item_numbers_unique":  true,
+    "bom_quantity_positive":    true
+  }
+}

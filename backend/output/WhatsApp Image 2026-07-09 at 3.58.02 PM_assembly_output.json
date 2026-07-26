@@ -1,0 +1,1062 @@
+{
+  "meta": {
+    "source_file": "WhatsApp Image 2026-07-09 at 3.58.02 PM.jpeg",
+    "drawing_type": "assembly",
+    "processed_at": "2026-07-09T20:55:52.536057Z",
+    "total_ocr_hits": 56
+  },
+  "drawing_type": "assembly",
+  "extracted_data": {
+    "title": {
+      "value": "DWG. NO.",
+      "bbox": [
+        1156,
+        754,
+        1249,
+        771
+      ],
+      "confidence": 0.9982
+    },
+    "revision": {
+      "value": "A",
+      "bbox": [
+        1508,
+        645,
+        1542,
+        676
+      ],
+      "confidence": 0.9995
+    },
+    "date": null,
+    "drawing_number": {
+      "value": "061_tutorial_15_02_2008",
+      "bbox": [
+        1174,
+        772,
+        1354,
+        791
+      ],
+      "confidence": 0.999
+    },
+    "bill_of_materials": [
+      {
+        "item": {
+          "value": "1",
+          "bbox": [
+            1032,
+            60,
+            1048,
+            82
+          ],
+          "confidence": 0.9978
+        },
+        "part_number": {
+          "value": "061_vise_body_2008",
+          "bbox": [
+            1131,
+            60,
+            1357,
+            83
+          ],
+          "confidence": 0.9997
+        },
+        "quantity": {
+          "value": "1",
+          "bbox": [
+            1435,
+            63,
+            1451,
+            84
+          ],
+          "confidence": 0.9988
+        }
+      },
+      {
+        "item": {
+          "value": "2",
+          "bbox": [
+            1031,
+            91,
+            1050,
+            116
+          ],
+          "confidence": 1.0
+        },
+        "part_number": {
+          "value": "061_vise_jaw_2008",
+          "bbox": [
+            1142,
+            91,
+            1349,
+            115
+          ],
+          "confidence": 0.9997
+        },
+        "quantity": {
+          "value": "1",
+          "bbox": [
+            1437,
+            94,
+            1453,
+            116
+          ],
+          "confidence": 0.9987
+        }
+      },
+      {
+        "item": {
+          "value": "3",
+          "bbox": [
+            1029,
+            123,
+            1050,
+            147
+          ],
+          "confidence": 1.0
+        },
+        "part_number": {
+          "value": "061_jaw_screw_2008",
+          "bbox": [
+            1132,
+            122,
+            1366,
+            149
+          ],
+          "confidence": 0.9815
+        },
+        "quantity": {
+          "value": "1",
+          "bbox": [
+            1441,
+            125,
+            1457,
+            147
+          ],
+          "confidence": 0.999
+        }
+      },
+      {
+        "item": {
+          "value": "B",
+          "bbox": [
+            109,
+            159,
+            139,
+            195
+          ],
+          "confidence": 1.0
+        },
+        "part_number": {
+          "value": "061_clamping_plate_2008",
+          "bbox": [
+            1101,
+            156,
+            1397,
+            179
+          ],
+          "confidence": 0.9994
+        },
+        "quantity": {
+          "value": "1",
+          "bbox": [
+            1443,
+            157,
+            1459,
+            180
+          ],
+          "confidence": 0.9954
+        }
+      },
+      {
+        "item": {
+          "value": "6",
+          "bbox": [
+            1031,
+            218,
+            1048,
+            242
+          ],
+          "confidence": 1.0
+        },
+        "part_number": {
+          "value": "061_baseplate_2008",
+          "bbox": [
+            1133,
+            216,
+            1372,
+            244
+          ],
+          "confidence": 0.9993
+        },
+        "quantity": {
+          "value": "2",
+          "bbox": [
+            1448,
+            220,
+            1470,
+            246
+          ],
+          "confidence": 1.0
+        }
+      },
+      {
+        "item": {
+          "value": "7",
+          "bbox": [
+            1029,
+            250,
+            1050,
+            274
+          ],
+          "confidence": 1.0
+        },
+        "part_number": {
+          "value": "061_bar_globe_2008",
+          "bbox": [
+            1135,
+            249,
+            1377,
+            276
+          ],
+          "confidence": 0.9986
+        },
+        "quantity": {
+          "value": "2",
+          "bbox": [
+            1449,
+            250,
+            1475,
+            279
+          ],
+          "confidence": 1.0
+        }
+      },
+      {
+        "item": {
+          "value": "8",
+          "bbox": [
+            1030,
+            283,
+            1051,
+            308
+          ],
+          "confidence": 1.0
+        },
+        "part_number": {
+          "value": "061_oval_fillister_2008",
+          "bbox": [
+            1132,
+            283,
+            1382,
+            310
+          ],
+          "confidence": 0.9957
+        },
+        "quantity": {
+          "value": "1",
+          "bbox": [
+            1457,
+            287,
+            1474,
+            310
+          ],
+          "confidence": 0.9961
+        }
+      },
+      {
+        "item": {
+          "value": "9",
+          "bbox": [
+            1032,
+            317,
+            1051,
+            338
+          ],
+          "confidence": 1.0
+        },
+        "part_number": {
+          "value": "061_set_screw2_2008",
+          "bbox": [
+            1134,
+            317,
+            1384,
+            342
+          ],
+          "confidence": 0.9992
+        },
+        "quantity": {
+          "value": "2",
+          "bbox": [
+            1458,
+            320,
+            1481,
+            344
+          ],
+          "confidence": 1.0
+        }
+      },
+      {
+        "item": {
+          "value": "10",
+          "bbox": [
+            1026,
+            348,
+            1059,
+            373
+          ],
+          "confidence": 0.9998
+        },
+        "part_number": {
+          "value": "061_set_screw1_2008",
+          "bbox": [
+            1136,
+            350,
+            1383,
+            374
+          ],
+          "confidence": 0.9982
+        },
+        "quantity": {
+          "value": "4",
+          "bbox": [
+            1459,
+            352,
+            1481,
+            377
+          ],
+          "confidence": 1.0
+        }
+      },
+      {
+        "item": {
+          "value": "2",
+          "bbox": [
+            580,
+            375,
+            601,
+            399
+          ],
+          "confidence": 0.9535
+        }
+      },
+      {
+        "item": {
+          "value": "4",
+          "bbox": [
+            576,
+            446,
+            600,
+            469
+          ],
+          "confidence": 0.9996
+        }
+      },
+      {
+        "item": {
+          "value": "9",
+          "bbox": [
+            575,
+            480,
+            597,
+            504
+          ],
+          "confidence": 0.999
+        },
+        "part_number": {
+          "value": "5",
+          "bbox": [
+            1199,
+            475,
+            1223,
+            500
+          ],
+          "confidence": 0.9988
+        }
+      },
+      {
+        "part_number": {
+          "value": "3",
+          "bbox": [
+            1221,
+            518,
+            1243,
+            541
+          ],
+          "confidence": 0.9999
+        }
+      },
+      {
+        "item": {
+          "value": "10",
+          "bbox": [
+            564,
+            551,
+            601,
+            577
+          ],
+          "confidence": 0.6288
+        }
+      },
+      {
+        "item": {
+          "value": "A",
+          "bbox": [
+            55,
+            638,
+            96,
+            671
+          ],
+          "confidence": 0.9998
+        },
+        "part_number": {
+          "value": "TITLE:",
+          "bbox": [
+            1124,
+            662,
+            1170,
+            680
+          ],
+          "confidence": 0.9999
+        },
+        "quantity": {
+          "value": "A",
+          "bbox": [
+            1508,
+            645,
+            1542,
+            676
+          ],
+          "confidence": 0.9995
+        }
+      },
+      {
+        "part_number": {
+          "value": "Working with Drawing Views-/l",
+          "bbox": [
+            1147,
+            681,
+            1458,
+            705
+          ],
+          "confidence": 0.9665
+        }
+      },
+      {
+        "item": {
+          "value": "7",
+          "bbox": [
+            960,
+            760,
+            990,
+            791
+          ],
+          "confidence": 0.5262
+        },
+        "part_number": {
+          "value": "DWG. NO.",
+          "bbox": [
+            1156,
+            754,
+            1249,
+            771
+          ],
+          "confidence": 0.9982
+        },
+        "quantity": {
+          "value": "REV",
+          "bbox": [
+            1402,
+            756,
+            1440,
+            774
+          ],
+          "confidence": 1.0
+        }
+      },
+      {
+        "part_number": {
+          "value": "jambé,niné",
+          "bbox": [
+            1106,
+            802,
+            1188,
+            822
+          ],
+          "confidence": 0.9902
+        },
+        "quantity": {
+          "value": "SHEET 1 OF 1",
+          "bbox": [
+            1333,
+            806,
+            1437,
+            827
+          ],
+          "confidence": 0.9551
+        }
+      }
+    ]
+  },
+  "raw_ocr": [
+    {
+      "text": "ITEM NO.",
+      "confidence": 0.999,
+      "bbox": [
+        994,
+        30,
+        1089,
+        52
+      ]
+    },
+    {
+      "text": "PART NUMBER",
+      "confidence": 0.9979,
+      "bbox": [
+        1167,
+        30,
+        1321,
+        53
+      ]
+    },
+    {
+      "text": "QTY.",
+      "confidence": 0.9999,
+      "bbox": [
+        1415,
+        32,
+        1471,
+        55
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9978,
+      "bbox": [
+        1032,
+        60,
+        1048,
+        82
+      ]
+    },
+    {
+      "text": "061_vise_body_2008",
+      "confidence": 0.9997,
+      "bbox": [
+        1131,
+        60,
+        1357,
+        83
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9988,
+      "bbox": [
+        1435,
+        63,
+        1451,
+        84
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "bbox": [
+        1031,
+        91,
+        1050,
+        116
+      ]
+    },
+    {
+      "text": "061_vise_jaw_2008",
+      "confidence": 0.9997,
+      "bbox": [
+        1142,
+        91,
+        1349,
+        115
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9987,
+      "bbox": [
+        1437,
+        94,
+        1453,
+        116
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 1.0,
+      "bbox": [
+        1029,
+        123,
+        1050,
+        147
+      ]
+    },
+    {
+      "text": "061_jaw_screw_2008",
+      "confidence": 0.9815,
+      "bbox": [
+        1132,
+        122,
+        1366,
+        149
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.999,
+      "bbox": [
+        1441,
+        125,
+        1457,
+        147
+      ]
+    },
+    {
+      "text": "B",
+      "confidence": 1.0,
+      "bbox": [
+        109,
+        159,
+        139,
+        195
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 1.0,
+      "bbox": [
+        1029,
+        155,
+        1050,
+        180
+      ]
+    },
+    {
+      "text": "061_clamping_plate_2008",
+      "confidence": 0.9994,
+      "bbox": [
+        1101,
+        156,
+        1397,
+        179
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9954,
+      "bbox": [
+        1443,
+        157,
+        1459,
+        180
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 0.998,
+      "bbox": [
+        835,
+        170,
+        857,
+        193
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9071,
+      "bbox": [
+        873,
+        171,
+        897,
+        193
+      ]
+    },
+    {
+      "text": "B",
+      "confidence": 1.0,
+      "bbox": [
+        1548,
+        169,
+        1579,
+        202
+      ]
+    },
+    {
+      "text": "5",
+      "confidence": 1.0,
+      "bbox": [
+        1029,
+        188,
+        1050,
+        212
+      ]
+    },
+    {
+      "text": "061_screw_bar_2008",
+      "confidence": 0.9963,
+      "bbox": [
+        1132,
+        188,
+        1371,
+        213
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9179,
+      "bbox": [
+        1444,
+        189,
+        1464,
+        214
+      ]
+    },
+    {
+      "text": "6",
+      "confidence": 1.0,
+      "bbox": [
+        1031,
+        218,
+        1048,
+        242
+      ]
+    },
+    {
+      "text": "061_baseplate_2008",
+      "confidence": 0.9993,
+      "bbox": [
+        1133,
+        216,
+        1372,
+        244
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "bbox": [
+        1448,
+        220,
+        1470,
+        246
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 1.0,
+      "bbox": [
+        1029,
+        250,
+        1050,
+        274
+      ]
+    },
+    {
+      "text": "061_bar_globe_2008",
+      "confidence": 0.9986,
+      "bbox": [
+        1135,
+        249,
+        1377,
+        276
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "bbox": [
+        1449,
+        250,
+        1475,
+        279
+      ]
+    },
+    {
+      "text": "8",
+      "confidence": 1.0,
+      "bbox": [
+        1030,
+        283,
+        1051,
+        308
+      ]
+    },
+    {
+      "text": "061_oval_fillister_2008",
+      "confidence": 0.9957,
+      "bbox": [
+        1132,
+        283,
+        1382,
+        310
+      ]
+    },
+    {
+      "text": "1",
+      "confidence": 0.9961,
+      "bbox": [
+        1457,
+        287,
+        1474,
+        310
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 1.0,
+      "bbox": [
+        1032,
+        317,
+        1051,
+        338
+      ]
+    },
+    {
+      "text": "061_set_screw2_2008",
+      "confidence": 0.9992,
+      "bbox": [
+        1134,
+        317,
+        1384,
+        342
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 1.0,
+      "bbox": [
+        1458,
+        320,
+        1481,
+        344
+      ]
+    },
+    {
+      "text": "10",
+      "confidence": 0.9998,
+      "bbox": [
+        1026,
+        348,
+        1059,
+        373
+      ]
+    },
+    {
+      "text": "061_set_screw1_2008",
+      "confidence": 0.9982,
+      "bbox": [
+        1136,
+        350,
+        1383,
+        374
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 1.0,
+      "bbox": [
+        1459,
+        352,
+        1481,
+        377
+      ]
+    },
+    {
+      "text": "2",
+      "confidence": 0.9535,
+      "bbox": [
+        580,
+        375,
+        601,
+        399
+      ]
+    },
+    {
+      "text": "4",
+      "confidence": 0.9996,
+      "bbox": [
+        576,
+        446,
+        600,
+        469
+      ]
+    },
+    {
+      "text": "9",
+      "confidence": 0.999,
+      "bbox": [
+        575,
+        480,
+        597,
+        504
+      ]
+    },
+    {
+      "text": "5",
+      "confidence": 0.9988,
+      "bbox": [
+        1199,
+        475,
+        1223,
+        500
+      ]
+    },
+    {
+      "text": "3",
+      "confidence": 0.9999,
+      "bbox": [
+        1221,
+        518,
+        1243,
+        541
+      ]
+    },
+    {
+      "text": "10",
+      "confidence": 0.6288,
+      "bbox": [
+        564,
+        551,
+        601,
+        577
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 0.9998,
+      "bbox": [
+        55,
+        638,
+        96,
+        671
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 0.9995,
+      "bbox": [
+        1508,
+        645,
+        1542,
+        676
+      ]
+    },
+    {
+      "text": "TITLE:",
+      "confidence": 0.9999,
+      "bbox": [
+        1124,
+        662,
+        1170,
+        680
+      ]
+    },
+    {
+      "text": "Working with Drawing Views-/l",
+      "confidence": 0.9665,
+      "bbox": [
+        1147,
+        681,
+        1458,
+        705
+      ]
+    },
+    {
+      "text": "SIZE",
+      "confidence": 0.9999,
+      "bbox": [
+        1112,
+        753,
+        1148,
+        771
+      ]
+    },
+    {
+      "text": "DWG. NO.",
+      "confidence": 0.9982,
+      "bbox": [
+        1156,
+        754,
+        1249,
+        771
+      ]
+    },
+    {
+      "text": "REV",
+      "confidence": 1.0,
+      "bbox": [
+        1402,
+        756,
+        1440,
+        774
+      ]
+    },
+    {
+      "text": "7",
+      "confidence": 0.5262,
+      "bbox": [
+        960,
+        760,
+        990,
+        791
+      ]
+    },
+    {
+      "text": "A",
+      "confidence": 1.0,
+      "bbox": [
+        1111,
+        768,
+        1148,
+        804
+      ]
+    },
+    {
+      "text": "061_tutorial_15_02_2008",
+      "confidence": 0.999,
+      "bbox": [
+        1174,
+        772,
+        1354,
+        791
+      ]
+    },
+    {
+      "text": "jambé,niné",
+      "confidence": 0.9902,
+      "bbox": [
+        1106,
+        802,
+        1188,
+        822
+      ]
+    },
+    {
+      "text": "9/14/2022",
+      "confidence": 0.9999,
+      "bbox": [
+        1209,
+        804,
+        1279,
+        819
+      ]
+    },
+    {
+      "text": "SHEET 1 OF 1",
+      "confidence": 0.9551,
+      "bbox": [
+        1333,
+        806,
+        1437,
+        827
+      ]
+    }
+  ]
+}

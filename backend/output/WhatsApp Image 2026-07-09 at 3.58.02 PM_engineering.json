@@ -1,0 +1,110 @@
+{
+  "engineering_json": {
+    "title_block": {
+      "drawing_title": "Working with Drawing Views-/l",
+      "drawing_number": "061_tutorial_15_02_2008",
+      "revision": "",
+      "sheet": "SHEET 1 OF 1",
+      "scale": "",
+      "units": "",
+      "drawn_by": "jambé,niné",
+      "checked_by": "",
+      "approved_by": "",
+      "date": "9/14/2022",
+      "company": ""
+    },
+    "material": "",
+    "dimensions": [],
+    "tolerances": [],
+    "gdt_symbols": [],
+    "surface_finish": [],
+    "threads": [],
+    "notes": [],
+    "general_notes": [],
+    "tables": [
+      {
+        "headers": [
+          "ITEM NO.",
+          "PART NUMBER",
+          "QTY."
+        ],
+        "rows": [
+          {
+            "ITEM NO.": "1",
+            "PART NUMBER": "061_vise_body_2008",
+            "QTY.": "1"
+          },
+          {
+            "ITEM NO.": "2",
+            "PART NUMBER": "061_vise_jaw_2008",
+            "QTY.": "1"
+          },
+          {
+            "ITEM NO.": "3",
+            "PART NUMBER": "061_jaw_screw_2008",
+            "QTY.": "1"
+          },
+          {
+            "ITEM NO.": "4",
+            "PART NUMBER": "061_clamping_plate_2008",
+            "QTY.": "1"
+          },
+          {
+            "ITEM NO.": "5",
+            "PART NUMBER": "061_screw_bar_2008",
+            "QTY.": "1"
+          },
+          {
+            "ITEM NO.": "6",
+            "PART NUMBER": "061_baseplate_2008",
+            "QTY.": "2"
+          },
+          {
+            "ITEM NO.": "7",
+            "PART NUMBER": "061_bar_globe_2008",
+            "QTY.": "2"
+          },
+          {
+            "ITEM NO.": "8",
+            "PART NUMBER": "061_oval_fillister_2008",
+            "QTY.": "1"
+          },
+          {
+            "ITEM NO.": "9",
+            "PART NUMBER": "061_set_screw2_2008",
+            "QTY.": "2"
+          },
+          {
+            "ITEM NO.": "10",
+            "PART NUMBER": "061_set_screw1_2008",
+            "QTY.": "4"
+          }
+        ]
+      }
+    ],
+    "other_annotations": [
+      "SIZE",
+      "DWG. NO.",
+      "REV",
+      "A",
+      "A",
+      "B",
+      "B"
+    ]
+  },
+  "summary": "Drawing Title: **Working with Drawing Views-/l**.  \nDrawing Number: **061_tutorial_15_02_2008**.  \nMaterial: **Not present**.  \nRevision: **Not present** (field is blank).  \nScale: **Not present** (field is blank).\n\nThe drawing contains **0 dimensions**, **0 tolerances**, and **0 notes** (including general notes). It also contains **0 surface finish entries** and **0 thread entries**.\n\nKey observation: one parts table (BOM) is present with 10 listed items and quantities, and the title block shows **Sheet 1 of 1**, drawn by **jambé,niné**, dated **9/14/2022**.",
+  "statistics": {
+    "dimensions": 0,
+    "tolerances": 0,
+    "gdt_symbols": 0,
+    "surface_finishes": 0,
+    "threads": 0,
+    "notes": 0,
+    "general_notes": 0,
+    "tables": 1,
+    "other_annotations": 7,
+    "has_title": true,
+    "has_material": false,
+    "has_revision": false
+  }
+}
